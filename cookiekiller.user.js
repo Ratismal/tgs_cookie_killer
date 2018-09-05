@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         TGS Cookie Killer
-// @namespace    https://stupidcat.me
+// @namespace    https://ratismal.github.io/tgs_cookie_killer/cookiekiller.user.js
 // @version      0.1
 // @description  Kills scroll cookies set by The Great Suspender
 // @author       stupid cat
