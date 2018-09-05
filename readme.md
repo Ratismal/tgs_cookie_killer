@@ -12,6 +12,6 @@ That's fair. Check the [`cookiekiller.user.js`](https://github.com/Ratismal/tgs_
 
 Click on this extremely excited feline.
 
-[![super excited](http://38.media.tumblr.com/705ea963e93e60c58c4027576479bedb/tumblr_nlhf3cMyK61svecmko1_500.gif)](https://ratismal.github.io/tgs_cookie_killer/)
+[![super excited](http://38.media.tumblr.com/705ea963e93e60c58c4027576479bedb/tumblr_nlhf3cMyK61svecmko1_500.gif)](https://ratismal.github.io/tgs_cookie_killer/cookiekiller.user.js)
 
 Or click [here](https://ratismal.github.io/tgs_cookie_killer/cookiekiller.user.js) if you're boring.
